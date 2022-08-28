@@ -1,0 +1,11 @@
+#Partida ConectaN: 
+#IDs jugadores: 1,2
+#Tablero: 
+#Turno del jugador: 1
+#Tamanio: 5
+#N: 4
+00000
+00000
+10001
+21002
+12001
