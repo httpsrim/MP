@@ -1,0 +1,11 @@
+#Fichero de configuración de ConectaN
+NUEVAPARTIDA = Si
+FICHEROCAMPEONATO = ./data/competicion.txt
+JUGADORESID = 1 2
+TAM = 7
+NTOWIN = 4
+JUGADORES = 4 
+Pedro Ramirez
+Pepe MOrente
+Matilde Lopez
+Ana Jimenez
